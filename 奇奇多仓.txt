@@ -1,0 +1,23 @@
+{ "urls": [{ "url": "https://gh.tryxd.cn/https://raw.githubusercontent.com/clover168/ysjk/refs/heads/main/奇奇/tvboxqq/饭太硬/api.json", "name": "饭太硬" },
+
+{ "url": "https://gh.tryxd.cn/https://raw.githubusercontent.com/clover168/ysjk/refs/heads/main/奇奇/tvboxqq/小米/api.json", "name": "小米" },
+
+{ "url": "https://gh.tryxd.cn/https://raw.githubusercontent.com/clover168/ysjk/refs/heads/main/奇奇/tvboxqq/肥猫/api.json", "name": "肥猫" },
+
+{ "url": "https://gh.tryxd.cn/https://raw.githubusercontent.com/clover168/ysjk/refs/heads/main/奇奇/tvboxqq/王二小/api.json", "name": "王二小" },
+
+{ "url": "https://gh.tryxd.cn/https://raw.githubusercontent.com/clover168/ysjk/refs/heads/main/奇奇/tvboxqq/潇洒/api.json", "name": "潇洒" },
+
+{ "url": "https://gh.tryxd.cn/https://raw.githubusercontent.com/clover168/ysjk/refs/heads/main/奇奇/tvboxqq/摸鱼儿/api.json", "name": "摸鱼儿" },
+
+{ "url": "https://gh.tryxd.cn/https://raw.githubusercontent.com/clover168/ysjk/refs/heads/main/奇奇/tvboxqq/小虎斑/api.json", "name": "小虎斑" },
+
+{ "url": "https://gh.tryxd.cn/https://raw.githubusercontent.com/clover168/ysjk/refs/heads/main/奇奇/tvboxqq/欧歌/api.json", "name": "欧歌" },
+
+{ "url": "https://gh.tryxd.cn/https://raw.githubusercontent.com/clover168/ysjk/refs/heads/main/奇奇/tvboxqq/南风/api.json", "name": "南风" },
+
+{ "url": "https://gh.tryxd.cn/https://raw.githubusercontent.com/clover168/ysjk/refs/heads/main/奇奇/tvboxqq/香雅情/api.json", "name": "香雅情" },
+
+{ "url": "https://gh.tryxd.cn/https://raw.githubusercontent.com/clover168/ysjk/refs/heads/main/奇奇/tvboxqq/少儿频道/api.json", "name": "少儿频道" },
+
+{ "url": "https://gh.tryxd.cn/https://raw.githubusercontent.com/clover168/ysjk/refs/heads/main/奇奇/tvboxqq/戏曲音乐/api.json", "name": "戏曲音乐" }]}

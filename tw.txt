@@ -1,0 +1,39 @@
+{ "urls": [{ "url": "https://gh.tryxd.cn/https://raw.githubusercontent.com/clover168/ysjk/refs/heads/main/天微/tvboxTW/天微/tvboxTW/【天微VIP线】/api.json", "name": "【天微VIP线】" },
+
+{ "url":"https://gh.tryxd.cn/https://raw.githubusercontent.com/clover168/ysjk/refs/heads/main/天微/tvboxTW/【七星影视】/api.json", "name": "【七星影视】" },
+
+{ "url":"https://gh.tryxd.cn/https://raw.githubusercontent.com/clover168/ysjk/refs/heads/main/天微/tvboxTW/【饭太硬线】/api.json", "name": "【饭太硬线】" },
+
+{ "url":"https://gh.tryxd.cn/https://raw.githubusercontent.com/clover168/ysjk/refs/heads/main/天微/tvboxTW/【小虎斑线】/api.json", "name": "【小虎斑线】" },
+
+{ "url":"https://gh.tryxd.cn/https://raw.githubusercontent.com/clover168/ysjk/refs/heads/main/天微/tvboxTW/【喵影视线】/api.json", "name": "【喵影视线】" },
+
+{ "url":"https://gh.tryxd.cn/https://raw.githubusercontent.com/clover168/ysjk/refs/heads/main/天微/tvboxTW/【真心线路】/api.json", "name": "【真心线路】" },
+
+{ "url":"https://gh.tryxd.cn/https://raw.githubusercontent.com/clover168/ysjk/refs/heads/main/天微/tvboxTW/【D佬线路】/api.json", "name": "【D佬线路】" },
+
+{ "url":"https://gh.tryxd.cn/https://raw.githubusercontent.com/clover168/ysjk/refs/heads/main/天微/tvboxTW/【拾光线路】/api.json", "name": "【拾光线路】" },
+
+{ "url":"https://gh.tryxd.cn/https://raw.githubusercontent.com/clover168/ysjk/refs/heads/main/天微/tvboxTW/【香雅情线】/api.json", "name": "【香雅情线】" },
+
+{ "url":"https://gh.tryxd.cn/https://raw.githubusercontent.com/clover168/ysjk/refs/heads/main/天微/tvboxTW/【王二小线】/api.json", "name": "【王二小线】" },
+
+{ "url":"https://gh.tryxd.cn/https://raw.githubusercontent.com/clover168/ysjk/refs/heads/main/天微/tvboxTW/【肥猫线路】/api.json", "name": "【肥猫线路】" },
+
+{ "url":"https://gh.tryxd.cn/https://raw.githubusercontent.com/clover168/ysjk/refs/heads/main/天微/tvboxTW/【摸鱼线路】/api.json", "name": "【摸鱼线路】" },
+
+{ "url":"https://gh.tryxd.cn/https://raw.githubusercontent.com/clover168/ysjk/refs/heads/main/天微/tvboxTW/【讴歌线路】/api.json", "name": "【讴歌线路】" },
+
+{ "url":"https://gh.tryxd.cn/https://raw.githubusercontent.com/clover168/ysjk/refs/heads/main/天微/tvboxTW/【南风线路】/api.json", "name": "【南风线路】" },
+
+{ "url":"https://gh.tryxd.cn/https://raw.githubusercontent.com/clover168/ysjk/refs/heads/main/天微/tvboxTW/【骚零影视】/api.json", "name": "【骚零影视】" },
+
+{ "url":"https://gh.tryxd.cn/https://raw.githubusercontent.com/clover168/ysjk/refs/heads/main/天微/tvboxTW/【天天开心】/api.json", "name": "【天天开心】" },
+
+{ "url":"https://gh.tryxd.cn/https://raw.githubusercontent.com/clover168/ysjk/refs/heads/main/天微/tvboxTW/【小米线路】/api.json", "name": "【小米线路】" },
+
+{ "url":"https://gh.tryxd.cn/https://raw.githubusercontent.com/clover168/ysjk/refs/heads/main/天微/tvboxTW/【潇洒线路】/api.json", "name": "【潇洒线路】" },
+
+{ "url":"https://gh.tryxd.cn/https://raw.githubusercontent.com/clover168/ysjk/refs/heads/main/天微/tvboxTW/【白嫖线路】/api.json", "name": "【白嫖线路】" },
+
+{ "url":"https://gh.tryxd.cn/https://raw.githubusercontent.com/clover168/ysjk/refs/heads/main/天微/tvboxTW/【戏曲音乐】/api.json", "name": "【戏曲音乐】" }]}
