@@ -6,7 +6,7 @@
   "sites": [
     {
       "key": "豆瓣",
-      "name": "公众号:科技天微：限自用测试 禁传播贩卖（6月1日更）",
+      "name": "summer",
       "type": 3,
       "api": "csp_Douban",
       "searchable": 0,
