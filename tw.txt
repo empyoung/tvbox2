@@ -1,4 +1,4 @@
-{ "urls": [{ "url": "https://gh.tryxd.cn/https://raw.githubusercontent.com/clover168/ysjk/refs/heads/main/天微/tvboxTW/天微/tvboxTW/【天微VIP线】/api.json", "name": "【天微VIP线】" },
+{ "urls": [{ "url": "https://gh.tryxd.cn/https://raw.githubusercontent.com/clover168/ysjk/refs/heads/main/天微/tvboxTW/【天微VIP线】/api.json", "name": "【天微VIP线】" },
 
 { "url":"https://gh.tryxd.cn/https://raw.githubusercontent.com/clover168/ysjk/refs/heads/main/天微/tvboxTW/【七星影视】/api.json", "name": "【七星影视】" },
 
