@@ -11,8 +11,8 @@
   "ydAuth": "",//请求头中authorization 取basic 后面的值
   "tyAuth": "",//账号|密码
   "p123Auth":"",//账号|密码
-  "proxy": "http://127.0.0.1:1072",//默认代理端口 留空则使用外置代理:http://12345678:12345678@47.236.191.222:1080
+  "proxy": "http://127.0.0.1:1072",//默认代理端口 留空则使用外置代理:socks5://12345678:12345678@47.236.191.222:1080
   "tgPic": "true",//tgsou 图片显示与否
   //每次更新jar 该值都必须更新
-  "exeMd5": "kkECyFkhvk/LUH347Hsa99GVaDLQhC/YLG72CnXJ8lSvTkfIuOBqfwY6mW7X1S/W+fsqy+7/kQmaLabh7BRRA7ioGGddwey/g2B4tK0WwEUDvmg1yeJhiP7U7ebors7qnIUGnqXJeEwoSykfLhluwW0ewCdJkxgZtMiXOIt25DbADFVKklOr1aF7XiFtVPhN1Am8NWe/BB0Htw/XApBaybZK66tFxX/jbBbg+N/v7Gtpn3yfYBQ7HRG5szalH+uQ0Ut6NVzBoC9PqyNJR/yjHjQyXwYQ1ru0JPDxrdCPlBgCxxPKDz4YVaE0vBfpkikPVK2tzRBBp6PhNiQwrLFS2l87wEs8yAAPoy/R/qa+spBkAvuC8CPFNO7Av/19QOTzGjW4AyBgo2JmKohVeqVcMeZnCdcKKKzn9IupDOP/mA=="
+  "exeMd5": "mfOdxVhFaPon5Tfr8rdiXexCU/ZxYYMPzCB0QuiKm2Dst4VZUCcnoEn3mntVFo5zzUAfpx6ZjGgUBP2wAypaL5xhoQKaAeQiHarU0S6yBVNGIkqy5iJybU+iAL9zRYbzz/JpOYhV4ATGQjpWpi6WxwY+J3M6tP60CIa/OstZgTqnJRicoVJ4i6BoklfrWhCdMchrWEWQY8xgIX/Qhsg8Czfzm8Q2OytOgxjBLl67+EAz1ZkX3pLDddc3QZLgViMJ1FZnwQDY5iRZqHVfnJB1wEgJ5dEIIRC+kUwxzTQi7WOzf//+9Eyusj1mAoDWXZo5PKf/vJEMNrmgBt47yhWEHkjKUmk0igxGTuZSoDcM3F5G8Pjc1+JuZtdU9JHI2aqjSdNHr27CCluu42WoFgQrj9fOvSEtpnpRlEFM74w="
 }
