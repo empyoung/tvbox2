@@ -11,4 +11,4 @@ https://gh.tryxd.cn/https://raw.githubusercontent.com/clover168/ysjk/refs/heads/
 https://gh.tryxd.cn/https://raw.githubusercontent.com/clover168/ysjk/refs/heads/main/奇奇多仓.txt
 
 真心单仓：
-https://down.66a.vip/https://raw.githubusercontent.com/clover168/ysjk/refs/heads/main/真心单仓.txt
+https://99z.top/https://raw.githubusercontent.com/clover168/ysjk/refs/heads/main/真心单仓.txt
