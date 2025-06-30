@@ -1,5 +1,5 @@
 {
-  "spider": "./PandaQ250628.jar",
+  "spider": "./PandaQ250628.jpg;md5;250fd4c497ecf7c573d91ee2674ec258",
   "wallpaper": "./ppic/feimao.php",
   "logo": "./panda/0262.png",
   "sites": [
@@ -325,8 +325,7 @@
       "name": "🤣┃动漫┃巴士",
       "type": 3,
       "playerType": "2",
-      "api": "csp_Dm84",
-      "ext: "https:
+      "api": "csp_Dm84"
     },
     {
       "key": "csp_FirstAid",
