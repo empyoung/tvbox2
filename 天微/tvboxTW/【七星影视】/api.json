@@ -15,7 +15,7 @@
   "sites": [
     {
       "key": "豆瓣",
-      "name": "七星影仓 提示：仅限试用测试禁止传播贩卖，请24小时内删除",
+      "name": "公众号：七星提示：仅试用测试禁传播贩卖，请24小时内删除",
       "type": 3,
       "api": "csp_Douban",
       "searchable": 0,
@@ -38,7 +38,14 @@
       "key": "金牌影视",
       "name": "七星🌟┃秒播源",
       "type": 3,
-      "api": "csp_Jpys"
+      "api": "./py/金牌影视.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "playerType": 2,
+      "ext": {
+        "site": "https://www.hkybqufgh.com,https://www.sizhengxt.com,https://0996zp.com,https://9zhoukj.com/,https://www.sizhengxt.com,https://www.tjrongze.com,https://www.jiabaide.cn,https://cqzuoer.com"
+      }
     },
     {
       "key": "荐片",
@@ -52,14 +59,14 @@
       "key": "热播影视",
       "name": "七星🌟┃秒播⒉",
       "type": 3,
-            "api": "csp_AppRJ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": {
-                "url": "http://v.rbotv.cn"
-            }
-        },
+      "api": "csp_AppRJ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": {
+        "url": "http://v.rbotv.cn"
+      }
+    },
     {
       "key": "苹果影视",
       "name": "七星🌟┃秒播⒊",
@@ -69,23 +76,20 @@
       "quickSearch": 1,
       "filterable": 1
     },
-    
-    
     {
-            "key": "橘子",
-            "name": "七星🌟┃秒播⒋",
-            "type": 3,
-            "quickSearch": 1,
-            "api": "csp_AppGet",
-            "ext": {
-                "url": "https://api1.bffree.cn",
-                "dataKey": "2015692015692015",
-                "dataIv": "2015692015692015",
-                "deviceId": "",
-                "version": "300"
-            }
-        },
-    
+      "key": "橘子",
+      "name": "七星🌟┃秒播⒋",
+      "type": 3,
+      "quickSearch": 1,
+      "api": "csp_AppGet",
+      "ext": {
+        "url": "https://api1.bffree.cn",
+        "dataKey": "2015692015692015",
+        "dataIv": "2015692015692015",
+        "deviceId": "",
+        "version": "300"
+      }
+    },
     {
       "key": "农民影视",
       "name": "七星🌟┃秒播⒌",
@@ -127,20 +131,20 @@
       "filterable": 1,
       "ext": "https://cs.hgyx.vip/api2/api.php/app/"
     },
-    
     {
-            "key": "菲儿影视",
-            "name": "七星🌟┃秒播⒐",
-            "type": 3,
-            "api": "csp_AppFerr",
-            "ext": {
-                "url": "https://appcms.freehd.vip",
-                "dataKey": "be5348dfb0c3c283",
-                "dataIv": "5f5449dd14313217"
-            }
-        },
-    
-    
+      "key": "星河",
+      "name": "七星🌟┃秒播⒐",
+      "type": 3,
+      "quickSearch": 1,
+      "api": "csp_AppGet",
+      "ext": {
+        "url": "http://121.62.22.204:9876",
+        "dataKey": "f5e2tx53ykp6s2c9",
+        "dataIv": "f5e2tx53ykp6s2c9",
+        "deviceId": "",
+        "version": "361"
+      }
+    },
     {
       "key": "360zy",
       "name": "七星🌟┃秒播⒑",
@@ -184,23 +188,20 @@
         "反转爽剧"
       ]
     },
-    
-    
-     {
-            "key": "星河",
-            "name": "七星🌟┃秒播⒒",
-            "type": 3,
-            "quickSearch": 1,
-            "api": "csp_AppGet",
-            "ext": {
-                "url": "http://121.62.22.204:9876",
-                "dataKey": "f5e2tx53ykp6s2c9",
-                "dataIv": "f5e2tx53ykp6s2c9",
-                "deviceId": "",
-                "version": "361"
-            }
-        },
-   
+    {
+      "key": "星河",
+      "name": "七星🌟┃秒播⒒",
+      "type": 3,
+      "quickSearch": 1,
+      "api": "csp_AppGet",
+      "ext": {
+        "url": "http://121.62.22.204:9876",
+        "dataKey": "f5e2tx53ykp6s2c9",
+        "dataIv": "f5e2tx53ykp6s2c9",
+        "deviceId": "",
+        "version": "361"
+      }
+    },
     {
       "key": "量子",
       "name": "七星🌟┃秒播⒓",
@@ -227,18 +228,15 @@
         "喜剧片"
       ]
     },
-    
-    
     {
-            "key": "瓜子影视",
-            "name": "七星🌟┃秒播⒔",
-            "type": 3,
-            "api": "csp_Gz360",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-    
+      "key": "瓜子影视",
+      "name": "七星🌟┃秒播⒔",
+      "type": 3,
+      "api": "csp_Gz360",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
     {
       "key": "csp_XYQBiu_骚火VIP",
       "name": "七星🌟┃秒播⒕",

@@ -17,21 +17,20 @@
         {
             "name": "fanmingming",
             "type": 0,
-            "url": "./lives/fanmingming.txt",
-            "epg": ""
+            "url": "./lives/fanmingming.txt"
         }
     ],
     "sites": [
+       
         
-        
-        {
+         {
             "key": "drpy_js_豆瓣",
             "name": "🌷香雅情｜本地",
             "type": 3,
             "api": "./api/drpy2.min.js",
             "ext": "./js/drpy.js"
         },
-        {
+           {
             "key": "csp_LocalFile",
             "name": "本机文件(接口完全免费)",
             "type": 3,
