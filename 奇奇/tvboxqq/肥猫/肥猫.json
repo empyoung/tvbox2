@@ -1,10 +1,10 @@
 {
-  "spider": "./PandaQ250628.jpg;md5;250fd4c497ecf7c573d91ee2674ec258",
+  "spider": "./PandaQ250703.jpg;md5;f4db6acb678c12ebe26e34bbdc3fbf05",
   "wallpaper": "./ppic/feimao.php",
   "logo": "./panda/0262.png",
   "sites": [
     {
-      "key": "drpy_js_豆瓣",
+      "key": "豆瓣",
       "name": "🐼┃备用公众号┃我不是肥猫",
       "type": 3,
       "api": "csp_Douban",
@@ -51,7 +51,8 @@
           "http://feimaoai.site",
           "http://www.labi88.sbs",
           "http://fmao.site",
-          "https://fmao.shop"
+          "https://fmao.shop",
+          "http://xiaocge.fun"
         ],
         "threadinfo": {
           "chunksize": 512,
@@ -129,18 +130,18 @@
       "ext": "Ygx7wpu8Zcm70i88iO9WMRvxQZdMqIapMqvlBKPmjCP60xrvslJlJFIwHepviTkKbgCK9nn25i0k7xnWVX0Y7g=="
     },
     {
-      "key":"光盘",
+      "key": "光盘",
       "name": "📀┃光盘┃APP",
-      "type":3,
-      "api":"csp_AppGet",
-      "ext":"5ztMiKPUcHLR7TRusm5rHsPgFhlXstdsZuadxKTvmldCWgloYKsAMQA+2Sr7eCUj"
+      "type": 3,
+      "api": "csp_AppGet",
+      "ext": "5ztMiKPUcHLR7TRusm5rHsPgFhlXstdsZuadxKTvmldCWgloYKsAMQA+2Sr7eCUj"
     },
     {
-      "key":"行动",
+      "key": "行动",
       "name": "😌┃行动┃APP",
-      "type":3,
-      "api":"csp_AppSy",
-      "ext":"iUYplHbim/qVptUBrzCuqk72erYn+xHvZVGawkGUOqtLGtiWlDcWpUagYzdfPYeECbG+IjVf7Mhz2ZqZ70k6X72tkUhQDNEpIN/XScTGlUE="
+      "type": 3,
+      "api": "csp_AppSy",
+      "ext": "iUYplHbim/qVptUBrzCuqk72erYn+xHvZVGawkGUOqtLGtiWlDcWpUagYzdfPYeECbG+IjVf7Mhz2ZqZ70k6X72tkUhQDNEpIN/XScTGlUE="
     },
     {
       "key": "再来",
@@ -161,7 +162,7 @@
       "name": "🐱┃猫抓┃APP",
       "type": 3,
       "api": "csp_AppGet",
-      "ext": "iUYplHbim/qVptUBrzCuqmzk48cRdrCU+TvWjkRayUR3VnXktGT5Xk3xOdnrzb1IN9MUDdYRVCdA3H9+5eszqQ=="
+      "ext": "uOx4WoHPKe5LbDsNX+u7yPZ/33148sHvWON6kZmflkJm9N9mwXRjT6S/UJau4nVckbCH+h6lvztfl/Ag6BM8Ng=="
     },
     {
       "key": "仓鼠",
@@ -183,6 +184,13 @@
       "type": 3,
       "api": "csp_AppGet",
       "ext": "cLeOXZXsq65z+2s8qkWsD+GYhlTxoLn2cNnZiAXyiQPBfOCR3nVfgmZWdkvjSaqJFD9Bmb+U0RVCI9wv8BMVIg=="
+    },
+    {
+      "key": "囧次元",
+      "name": "🤡┃次元┃APP",
+      "type": 3,
+      "api": "csp_AppGet",
+      "ext": "DUFPNFXbc0nhQ9S/akUS1016tumg5c0CXsmywMwiuf27+XAPWObdQRDR22Lgih/6189f+1INKiaNm4cQ+AY7CA=="
     },
     {
       "key": "csp_Jpys",
@@ -234,8 +242,7 @@
       "name": "🎬┃荐片┃影视",
       "api": "csp_Jianpian",
       "type": 3,
-      "playerType": "2",
-      "ext": "http://api2.rinhome.com"
+      "playerType": "2"
     },
     {
       "key": "csp_Quanwk",
@@ -243,13 +250,6 @@
       "type": 3,
       "api": "csp_Quanwk",
       "ext": "https://www.91qkw.com"
-    },
-    {
-      "key": "csp_Lggys",
-      "name": "🤣┃攻阁┃影视",
-      "type": 3,
-      "playerType": "2",
-      "api": "csp_Lggys"
     },
     {
       "key": "csp_J",
@@ -291,7 +291,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "http://www.czzyvideo.com"
+      "ext": "https://www.czzy77.com"
     },
     {
       "key": "csp_AppXY",
@@ -325,7 +325,8 @@
       "name": "🤣┃动漫┃巴士",
       "type": 3,
       "playerType": "2",
-      "api": "csp_Dm84"
+      "api": "csp_Dm84",
+      "ext": "https://dm84.net"
     },
     {
       "key": "csp_FirstAid",
@@ -370,17 +371,17 @@
         "ratio": 1.333
       }
     },
-	{
-		"key": "娱乐",
-		"name": "🎮┃游戏┃娱乐",
-		"type": 3,
-		"api": "./lib/LIVES.py",
-		"style": {
-			"type": "rect",
-			"ratio": 1.333
-		},
-		"ext": ""
-	},
+    {
+      "key": "娱乐",
+      "name": "🎮┃游戏┃娱乐",
+      "type": 3,
+      "api": "./lib/LIVES.py",
+      "style": {
+        "type": "rect",
+        "ratio": 1.333
+      },
+      "ext": ""
+    },
     {
       "key": "看球",
       "name": "⚾┃看球┃直播",
@@ -566,74 +567,160 @@
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     }
   ],
-  	"rules": [{
-		"name": "♻️量非",
-		"hosts": ["lz", "vip.lz", "v.cdnlz", "hd.lz", "ffzy", "vip.ffzy", "hd.ffzy"],
-		"regex": ["#EXT-X-DISCONTINUITY\r*\n*#EXTINF:6.666667,[\\s\\S]*?#EXT-X-DISCONTINUITY", "#EXT-X-DISCONTINUITY\r*\n*#EXTINF:6.600000,[\\s\\S]*?#EXT-X-DISCONTINUITY"]
-	},
-	{
-		"name": "♻️索尼",
-		"hosts": ["suonizy", "qrssv.com"],
-		"regex": ["15.1666", "15.2666"]
-	},
-	{
-		"name": "♻️乐视",
-		"hosts": ["leshiyun"],
-		"regex": ["15.92"]
-	},
-	{
-		"name": "♻️优质",
-		"hosts": ["yzzy", "playback"],
-		"regex": ["16.63", "18.66", "17.66", "19.13"]
-	},
-	{
-		"name": "♻️快看",
-		"hosts": ["kuaikan", "vip.kuaikan"],
-		"regex": ["15.32", "15.231", "18.066"]
-	},
-	{
-		"name": "♻️360",
-		"hosts": ["lyhuicheng"],
-		"regex": ["#EXTINF.*?\\s+.*?hrz8QcR9.*?\\.ts\\s+", "#EXT-X-KEY:METHOD=NONE[\\s\\S]*?#EXT-X-DISCONTINUITY"]
-	},
-	{
-		"name": "♻️开源棋牌",
-		"hosts": ["askzycdn", "jkunbf", "bfikuncdn", "bfaskcdn"],
-		"regex": ["#EXT-X-KEY:METHOD=NONE\r*\n*#EXTINF:5,[\\s\\S]*?#EXT-X-DISCONTINUITY", "#EXT-X-KEY:METHOD=AES-128,URI=\"[^\"]+\"\r*\n*#EXTINF:3.333,[\\s\\S]*?#EXT-X-DISCONTINUITY"]
-	},
-	{
-		"name": "♻️暴风",
-		"hosts": ["bfengbf.com", "bfzy", "c1"],
-		"regex": ["#EXTINF.*?\\s+.*?adjump.*?\\.ts\\s+", "#EXT-X-DISCONTINUITY\r*\n*#EXTINF:3,[\\s\\S]*?#EXT-X-DISCONTINUITY"]
-	},
-	{
-		"name": "♻️农民",
-		"hosts": ["toutiaovod.com"],
-		"regex": ["video/tos/cn"]
-	},
-	{
-		"name": "♻️火山",
-		"hosts": ["huoshan.com"],
-		"regex": ["item_id="]
-	},
-	{
-		"name": "♻️抖音",
-		"hosts": ["douyin.com"],
-		"regex": ["is_play_url="]
-	},
-	{
-		"name": "♻️磁力",
-		"hosts": ["magnet"],
-		"regex": ["最 新", "直 播", "更 新"]
-	},
-	{
-		"name": "♻️饭团点击",
-		"hosts": ["dadagui", "freeok", "dadagui"],
-		"script": ["document.querySelector(\"#playleft iframe\").contentWindow.document.querySelector(\"#start\").click();"]
-	},
-	{
-		"name": "♻️毛驴点击",
-		"hosts": ["www.maolvys.com"],
-		"script": ["document.getElementsByClassName('swal-button swal-button--confirm')[0].click()"]
-	}]
+  "rules": [
+    {
+      "name": "♻️量非",
+      "hosts": [
+        "lz",
+        "vip.lz",
+        "v.cdnlz",
+        "hd.lz",
+        "ffzy",
+        "vip.ffzy",
+        "hd.ffzy"
+      ],
+      "regex": [
+        "#EXT-X-DISCONTINUITY\r*\n*#EXTINF:6.666667,[\\s\\S]*?#EXT-X-DISCONTINUITY",
+        "#EXT-X-DISCONTINUITY\r*\n*#EXTINF:6.600000,[\\s\\S]*?#EXT-X-DISCONTINUITY"
+      ]
+    },
+    {
+      "name": "♻️索尼",
+      "hosts": [
+        "suonizy",
+        "qrssv.com"
+      ],
+      "regex": [
+        "15.1666",
+        "15.2666"
+      ]
+    },
+    {
+      "name": "♻️乐视",
+      "hosts": [
+        "leshiyun"
+      ],
+      "regex": [
+        "15.92"
+      ]
+    },
+    {
+      "name": "♻️优质",
+      "hosts": [
+        "yzzy",
+        "playback"
+      ],
+      "regex": [
+        "16.63",
+        "18.66",
+        "17.66",
+        "19.13"
+      ]
+    },
+    {
+      "name": "♻️快看",
+      "hosts": [
+        "kuaikan",
+        "vip.kuaikan"
+      ],
+      "regex": [
+        "15.32",
+        "15.231",
+        "18.066"
+      ]
+    },
+    {
+      "name": "♻️360",
+      "hosts": [
+        "lyhuicheng"
+      ],
+      "regex": [
+        "#EXTINF.*?\\s+.*?hrz8QcR9.*?\\.ts\\s+",
+        "#EXT-X-KEY:METHOD=NONE[\\s\\S]*?#EXT-X-DISCONTINUITY"
+      ]
+    },
+    {
+      "name": "♻️开源棋牌",
+      "hosts": [
+        "askzycdn",
+        "jkunbf",
+        "bfikuncdn",
+        "bfaskcdn"
+      ],
+      "regex": [
+        "#EXT-X-KEY:METHOD=NONE\r*\n*#EXTINF:5,[\\s\\S]*?#EXT-X-DISCONTINUITY",
+        "#EXT-X-KEY:METHOD=AES-128,URI=\"[^\"]+\"\r*\n*#EXTINF:3.333,[\\s\\S]*?#EXT-X-DISCONTINUITY"
+      ]
+    },
+    {
+      "name": "♻️暴风",
+      "hosts": [
+        "bfengbf.com",
+        "bfzy",
+        "c1"
+      ],
+      "regex": [
+        "#EXTINF.*?\\s+.*?adjump.*?\\.ts\\s+",
+        "#EXT-X-DISCONTINUITY\r*\n*#EXTINF:3,[\\s\\S]*?#EXT-X-DISCONTINUITY"
+      ]
+    },
+    {
+      "name": "♻️农民",
+      "hosts": [
+        "toutiaovod.com"
+      ],
+      "regex": [
+        "video/tos/cn"
+      ]
+    },
+    {
+      "name": "♻️火山",
+      "hosts": [
+        "huoshan.com"
+      ],
+      "regex": [
+        "item_id="
+      ]
+    },
+    {
+      "name": "♻️抖音",
+      "hosts": [
+        "douyin.com"
+      ],
+      "regex": [
+        "is_play_url="
+      ]
+    },
+    {
+      "name": "♻️磁力",
+      "hosts": [
+        "magnet"
+      ],
+      "regex": [
+        "最 新",
+        "直 播",
+        "更 新"
+      ]
+    },
+    {
+      "name": "♻️饭团点击",
+      "hosts": [
+        "dadagui",
+        "freeok",
+        "dadagui"
+      ],
+      "script": [
+        "document.querySelector(\"#playleft iframe\").contentWindow.document.querySelector(\"#start\").click();"
+      ]
+    },
+    {
+      "name": "♻️毛驴点击",
+      "hosts": [
+        "www.maolvys.com"
+      ],
+      "script": [
+        "document.getElementsByClassName('swal-button swal-button--confirm')[0].click()"
+      ]
+    }
+  ]
 }
