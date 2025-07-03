@@ -18,7 +18,7 @@
 
 { "url":"https://gh.tryxd.cn/https://raw.githubusercontent.com/clover168/ysjk/refs/heads/main/天微/tvboxTW/【王二小线】/api.json", "name": "【王二小线】" },
 
-{ "url":"https://gh.tryxd.cn/https://raw.githubusercontent.com/clover168/ysjk/refs/heads/main/天微/tvboxTW/【肥猫线路】/api.json", "name": "【肥猫线路】" },
+{ "url":"https://gh.tryxd.cn/https://raw.githubusercontent.com/clover168/ysjk/refs/heads/main/天微/tvboxTW/【肥猫线路】/肥猫.json", "name": "【肥猫线路】" },
 
 { "url":"https://gh.tryxd.cn/https://raw.githubusercontent.com/clover168/ysjk/refs/heads/main/天微/tvboxTW/【摸鱼线路】/api.json", "name": "【摸鱼线路】" },
 
