@@ -1,5 +1,5 @@
 {
-  "spider": "./PandaQ250703.jpg;md5;f4db6acb678c12ebe26e34bbdc3fbf05",
+  "spider": "./PandaQ250703b.jpg;md5;6ea33c17933c910130d2905dd23f248d",
   "wallpaper": "./ppic/feimao.php",
   "logo": "./panda/0262.png",
   "sites": [
@@ -11,7 +11,7 @@
       "searchable": 0
     },
     {
-      "key": "豆瓣",
+      "key": "豆瓣预告",
       "name": "🐼┃豆瓣┃预告",
       "type": 3,
       "api": "csp_YGP",
@@ -562,7 +562,7 @@
       "name": "live",
       "type": 0,
       "playerType": 1,
-      "url": "./lib/25.txt",
+      "url": "https://6296.kstore.vip/25.txt",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     }

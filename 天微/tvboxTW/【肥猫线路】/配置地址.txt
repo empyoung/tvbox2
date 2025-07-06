@@ -1,1 +1,1 @@
-clan://localhost/tvbox/肥猫/肥猫.json
+clan://localhost/tvbox/feimao/feimao.json

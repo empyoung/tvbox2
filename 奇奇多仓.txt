@@ -8,7 +8,7 @@
 
 { "url": "https://gh.tryxd.cn/https://raw.githubusercontent.com/clover168/ysjk/refs/heads/main/奇奇/tvboxqq/潇洒/api.json", "name": "潇洒" },
 
-{ "url": "https://gh.tryxd.cn/https://raw.githubusercontent.com/clover168/ysjk/refs/heads/main/奇奇/tvboxqq/摸鱼儿/api.json", "name": "摸鱼儿" },
+{ "url": "https://gh.tryxd.cn/https://raw.githubusercontent.com/clover168/ysjk/refs/heads/main/奇奇/tvboxqq/摸鱼儿/moyu.json", "name": "摸鱼儿" },
 
 { "url": "https://gh.tryxd.cn/https://raw.githubusercontent.com/clover168/ysjk/refs/heads/main/奇奇/tvboxqq/小虎斑/api.json", "name": "小虎斑" },
 
