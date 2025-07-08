@@ -1,13 +1,13 @@
-{ "urls": [{ "url": "https://99z.top/https://raw.githubusercontent.com/clover168/ysjk/refs/heads/main/pg/jsm.json", "name": "聚合-PG" },
+{ "urls": [{ "url": "https://git.mokoc.live/https://raw.githubusercontent.com/clover168/ysjk/refs/heads/main/pg/jsm.json", "name": "聚合-PG" },
 
-{ "url": "https://99z.top/https://raw.githubusercontent.com/clover168/ysjk/refs/heads/main/摸鱼/moyu/moyu.json", "name": "聚合-摸鱼" },
+{ "url": "https://git.mokoc.live/https://raw.githubusercontent.com/clover168/ysjk/refs/heads/main/摸鱼/moyu/moyu.json", "name": "聚合-摸鱼" },
 
-{ "url": "https://99z.top/https://raw.githubusercontent.com/clover168/ysjk/refs/heads/main/拾光/svip/svip.json", "name": "聚合-拾光" },
+{ "url": "https://git.mokoc.live/https://raw.githubusercontent.com/clover168/ysjk/refs/heads/main/拾光/svip/svip.json", "name": "聚合-拾光" },
 
-{ "url": "https://99z.top/https://raw.githubusercontent.com/clover168/ysjk/refs/heads/main/肥猫/feimao.json", "name": "聚合-肥猫" },
+{ "url": "https://git.mokoc.live/https://raw.githubusercontent.com/clover168/ysjk/refs/heads/main/肥猫/feimao.json", "name": "聚合-肥猫" },
 
-{ "url": "https://99z.top/https://raw.githubusercontent.com/clover168/ysjk/refs/heads/main/饭太硬/fty.json", "name": "聚合-饭太硬" },
+{ "url": "https://git.mokoc.live/https://raw.githubusercontent.com/clover168/ysjk/refs/heads/main/饭太硬/fty.json", "name": "聚合-饭太硬" },
 
-{ "url": "https://99z.top/https://raw.githubusercontent.com/clover168/ysjk/refs/heads/main/OK/OK.json", "name": "聚合-OK" },
+{ "url": "https://git.mokoc.live/https://raw.githubusercontent.com/clover168/ysjk/refs/heads/main/OK/OK.json", "name": "聚合-OK" },
 
-{ "url": "https://99z.top/https://raw.githubusercontent.com/clover168/ysjk/refs/heads/main/真心/FongMi.json", "name": "聚合-真心" }]}
+{ "url": "https://git.mokoc.live/https://raw.githubusercontent.com/clover168/ysjk/refs/heads/main/真心/FongMi.json", "name": "聚合-真心" }]}

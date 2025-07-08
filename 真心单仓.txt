@@ -1,1 +1,1 @@
-{ "urls": [{ "url": "https://99z.top/https://raw.githubusercontent.com/clover168/ysjk/refs/heads/main/真心/FongMi.json", "name": "真心" }]}
+{ "urls": [{ "url": "https://git.mokoc.live/https://raw.githubusercontent.com/clover168/ysjk/refs/heads/main/真心/FongMi.json", "name": "真心" }]}
