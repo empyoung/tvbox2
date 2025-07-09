@@ -29,7 +29,7 @@ https://git.mokoc.live/https://raw.githubusercontent.com/clover168/ysjk/refs/hea
 https://git.mokoc.live/https://raw.githubusercontent.com/clover168/ysjk/refs/heads/main/饭太硬单仓.txt
 
 PG单仓：
-https://git.mokoc.live/https://raw.githubusercontent.com/clover168/ysjk/refs/heads/main/PG.txt
+https://git.mokoc.live/https://raw.githubusercontent.com/clover168/ysjk/refs/heads/main/PG单仓.txt
 
 OK单仓：
 https://git.mokoc.live/https://raw.githubusercontent.com/clover168/ysjk/refs/heads/main/OK.txt
