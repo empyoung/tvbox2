@@ -8,7 +8,7 @@
 
 { "url":"https://gh.tryxd.cn/https://raw.githubusercontent.com/clover168/ysjk/refs/heads/main/天微/tvboxTW/【喵影视线】/api.json", "name": "【喵影视线】" },
 
-{ "url":"https://gh.tryxd.cn/https://raw.githubusercontent.com/clover168/ysjk/refs/heads/main/天微/tvboxTW/【真心线路】/api.json", "name": "【真心线路】" },
+{ "url":"https://gh.tryxd.cn/https://raw.githubusercontent.com/clover168/ysjk/refs/heads/main/天微/tvboxTW/【真心线路】/FongMi.json", "name": "【真心线路】" },
 
 { "url":"https://gh.tryxd.cn/https://raw.githubusercontent.com/clover168/ysjk/refs/heads/main/天微/tvboxTW/【D佬线路】/api.json", "name": "【D佬线路】" },
 
