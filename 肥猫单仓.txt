@@ -1,1 +1,1 @@
-{ "urls": [{ "url": "https://git.mokoc.live/https://raw.githubusercontent.com/clover168/ysjk/refs/heads/main/肥猫/肥猫.json", "name": "肥猫" }]}
+{ "urls": [{ "url": "https://git.mokoc.live/https://raw.githubusercontent.com/clover168/ysjk/refs/heads/main/肥猫/feimao.json", "name": "肥猫" }]}

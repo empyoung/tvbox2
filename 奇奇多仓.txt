@@ -2,7 +2,7 @@
 
 { "url": "https://gh.tryxd.cn/https://raw.githubusercontent.com/clover168/ysjk/refs/heads/main/奇奇/tvboxqq/小米/api.json", "name": "小米" },
 
-{ "url": "https://gh.tryxd.cn/https://raw.githubusercontent.com/clover168/ysjk/refs/heads/main/奇奇/tvboxqq/肥猫/肥猫.json", "name": "肥猫" },
+{ "url": "https://gh.tryxd.cn/https://raw.githubusercontent.com/clover168/ysjk/refs/heads/main/奇奇/tvboxqq/肥猫/feimao.json", "name": "肥猫" },
 
 { "url": "https://gh.tryxd.cn/https://raw.githubusercontent.com/clover168/ysjk/refs/heads/main/奇奇/tvboxqq/王二小/api.json", "name": "王二小" },
 
