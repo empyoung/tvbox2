@@ -1,4 +1,4 @@
-{ "urls": [{ "url": "file://tvboxqq/饭太硬/api.json", "name": "饭太硬[本地]" },
+{ "urls": [{ "url": "file://tvboxqq/饭太硬/fty.json", "name": "饭太硬[本地]" },
 
 { "url": "file://tvboxqq/小米/api.json", "name": "小米[本地]" },
 

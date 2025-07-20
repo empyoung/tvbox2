@@ -1,5 +1,5 @@
 {
-  "spider": "./BU07xxy8.png;md5;6ad24e313c3b82e27338e32339de2f4f",
+  "spider": "./yVjqmI70.png;md5;f08fcff329753aa96823155c7c2dbe15",
   "wallpaper": "http://127.0.0.1:9978/proxy?do=wall",
   "logo": "./lib/ol.txt",
   "sites": [
@@ -124,16 +124,6 @@
       "timeout": 25
     },
     {
-      "key": "表哥",
-      "name": "👨🏻‍🦱表哥┃4K",
-      "type": 3,
-      "api": "csp_DbgGuard",
-      "quickSearch": 1,
-      "changeable": 1,
-      "filterable": 1,
-      "timeout": 25
-    },
-    {
       "key": "至臻",
       "name": "💌至臻┃4K",
       "type": 3,
@@ -165,7 +155,7 @@
     },
     {
       "key": "SeedHub",
-      "name": "🍀SeedHub┃4K",
+      "name": "🍀Seed┃4K",
       "type": 3,
       "api": "csp_SeedHubGuard",
       "quickSearch": 1,
@@ -214,12 +204,42 @@
       "timeout": 25
     },
     {
+      "key": "海绵",
+      "name": "🧽海绵┃4K",
+      "type": 3,
+      "api": "csp_HaiMianGuard",
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "timeout": 25
+    },
+    {
       "key": "雷鲸",
       "name": "🐳雷鲸┃4K",
       "type": 3,
       "api": "csp_LeiJingGuard",
       "quickSearch": 1,
       "changeable": 1,
+      "filterable": 1,
+      "timeout": 25
+    },
+    {
+      "key": "云巢",
+      "name": "☁️云巢┃4K",
+      "type": 3,
+      "api": "csp_PeccGuard",
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "timeout": 25
+    },
+    {
+      "key": "123分享",
+      "name": "🌂123┃4K",
+      "type": 3,
+      "api": "csp_Time123Guard",
+      "quickSearch": 0,
+      "changeable": 0,
       "filterable": 1,
       "timeout": 25
     },
@@ -303,6 +323,16 @@
       "timeout": 10
     },
     {
+      "key": "零零",
+      "name": "🐰零零┃App",
+      "type": 3,
+      "api": "csp_ZeroTvGuard",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "timeout": 10
+    },
+    {
       "key": "素白白",
       "name": "🐇白白┃直连",
       "type": 3,
@@ -333,30 +363,10 @@
       "timeout": 10
     },
     {
-      "key": "时常",
-      "name": "🐥时常┃App",
-      "type": 3,
-      "api": "csp_ShiChangGuard",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "timeout": 10
-    },
-    {
       "key": "咖啡",
       "name": "🍫咖啡┃App",
       "type": 3,
       "api": "csp_KaFeiGuard",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "timeout": 10
-    },
-    {
-      "key": "晴天",
-      "name": "☀️晴天┃App",
-      "type": 3,
-      "api": "csp_Sun4kGuard",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -537,6 +547,28 @@
       "quickSearch": 1,
       "filterable": 1,
       "timeout": 10
+    },
+    {
+      "key": "黑木耳",
+      "name": "🌻木耳┃无广",
+      "type": 1,
+      "api": "https://json02.heimuer.xyz/api.php/provide/vod/",
+      "quickSearch": 1,
+      "searchable": 1,
+      "changeable": 1,
+      "playUrl": "json:http://127.0.0.1:9978/proxy?do=parse&from=heimuer&url=",
+      "header": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36"
+      },
+      "categories": [
+        "国产剧",
+        "国产动漫",
+        "日本动漫",
+        "港剧",
+        "韩剧",
+        "欧美剧",
+        "国产综艺"
+      ]
     },
     {
       "key": "星芽短剧",
@@ -877,16 +909,6 @@
       "timeout": 25
     },
     {
-      "key": "盘搜",
-      "name": "🙀盘搜┃搜索",
-      "type": 3,
-      "api": "csp_PanSoGuard",
-      "searchable": 1,
-      "filterable": 1,
-      "changeable": 0,
-      "timeout": 25
-    },
-    {
       "key": "影搜",
       "name": "😼影子┃搜索",
       "type": 3,
@@ -917,10 +939,10 @@
       "timeout": 25
     },
     {
-      "key": "逸搜",
-      "name": "🌧逸搜┃搜索",
+      "key": "找盘",
+      "name": "🎾找盘┃搜索",
       "type": 3,
-      "api": "csp_TianYiSoGuard",
+      "api": "csp_V2PanGuard",
       "searchable": 1,
       "filterable": 1,
       "changeable": 0,
@@ -1052,14 +1074,6 @@
     "mozai.4gtv.tv"
   ],
   "lives": [
-    {
-      "name": "爱直播",
-      "type": 0,
-      "url": "http://127.0.0.1:9978/proxy?do=live&url=https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/owXrpU7F.bmp",
-      "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}",
-      "playerType": 2,
-      "timeout": 10
-    },
     {
       "name": "综合",
       "type": 0,
