@@ -1,11 +1,11 @@
 {
-  "spider": "./wex.png;md5;3591d99ab81c171d5b45eb99f4cc58b3",
+  "spider": "./wex.png;md5;16076852fc989e402b748a4f69e48f0b",
   "wallpaper": "http://王二小放牛娃牛逼.999888987.xyz",
   "logo": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1716818643045/wexfnw.gif",
   "sites": [
     {
       "key": "Douban",
-      "name": "🐮【公众号：王二小放牛娃】🐮",
+      "name": "🐮【王二小线路】🐮",
       "type": 3,
       "api": "csp_DoubanGuard",
       "searchable": 0,
@@ -56,7 +56,7 @@
       "api": "csp_WexwanniGuard",
       "searchable": 1,
       "changeable": 1
-    },		
+    },	
     {
       "key": "WexxzysGuard",
       "name": "💓校长┃4K💓",
@@ -86,6 +86,15 @@
       "name": "💓无名┃4K💓",
       "type": 3,
       "api": "csp_WexnullnameGuard",
+      "searchable": 1,
+      "changeable": 1,
+      "timeout": 120
+    },
+    {
+      "key": "Wexseedhub",
+      "name": "💓种子┃4K💓",
+      "type": 3,
+      "api": "csp_WexseedhubGuard",
       "searchable": 1,
       "changeable": 1,
       "timeout": 120
@@ -200,6 +209,14 @@
       "changeable": 1
     },
     {
+      "key": "WexXuexi",
+      "name": "💓原盘┃4K💓",
+      "type": 3,
+      "api": "csp_WexXuexiGuard",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
       "key": "Wexalllive",
       "name": "💓‍聚合┃直播💓‍",
       "type": 3,
@@ -240,10 +257,26 @@
       "changeable": 1
     },
     {
-      "key": "WexquickvodGuard",
-      "name": "🎇美剧┃秒播🎇",
+      "key": "Wexwencai",
+      "name": "🌺文才┃秒播🌺",
       "type": 3,
-      "api": "csp_WexquickvodGuard",
+      "api": "csp_WexwencaiGuard",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "Wexxpgtv",
+      "name": "🌺苹果┃秒播🌺",
+      "type": 3,
+      "api": "csp_WexxpgtvGuard",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "Wexshandian",
+      "name": "🌺闪电┃秒播🌺",
+      "type": 3,
+      "api": "csp_WexshandianGuard",
       "searchable": 1,
       "changeable": 1
     },
@@ -252,22 +285,6 @@
       "name": "🎇急速┃秒播🎇",
       "type": 3,
       "api": "csp_Wex4KavGuard",
-      "searchable": 1,
-      "changeable": 1
-    },
-    {
-      "key": "Wexsaohuo",
-      "name": "🎇火火┃秒播🎇",
-      "type": 3,
-      "api": "csp_WexsaohuoGuard",
-      "searchable": 1,
-      "changeable": 1
-    },
-    {
-      "key": "Wexzxzj",
-      "name": "🎇外剧┃秒播🎇",
-      "type": 3,
-      "api": "csp_WexzxzjGuard",
       "searchable": 1,
       "changeable": 1
     },
@@ -340,30 +357,6 @@
       "name": "🀄️emby┃4K🀄️",
       "type": 3,
       "api": "csp_WexembyGuard",
-      "searchable": 1,
-      "changeable": 1
-    },
-    {
-      "key": "Wexwencai",
-      "name": "🌺文才┃秒播🌺",
-      "type": 3,
-      "api": "csp_WexwencaiGuard",
-      "searchable": 1,
-      "changeable": 1
-    },
-    {
-      "key": "Wexxpgtv",
-      "name": "🌺苹果┃秒播🌺",
-      "type": 3,
-      "api": "csp_WexxpgtvGuard",
-      "searchable": 1,
-      "changeable": 1
-    },
-    {
-      "key": "Wexshandian",
-      "name": "🌺闪电┃秒播🌺",
-      "type": 3,
-      "api": "csp_WexshandianGuard",
       "searchable": 1,
       "changeable": 1
     },
@@ -513,14 +506,6 @@
       "api": "csp_WexIktvGuard",
       "searchable": 1,
       "changeable": 0
-    },
-    {
-      "key": "Wexciyuancheng",
-      "name": "🤡次元┃动漫🤡",
-      "type": 3,
-      "api": "csp_WexciyuanchengGuard",
-      "searchable": 1,
-      "changeable": 1
     },
     {
       "key": "Wexxifan",
@@ -678,18 +663,10 @@
       "changeable": 0
     },
     {
-      "key": "Wexxsmp3",
-      "name": "🎤随身┃相声🎤",
+      "key": "WexLunhuiDJ",
+      "name": "🎼轮回┃舞曲🎼",
       "type": 3,
-      "api": "csp_Wexxsmp3Guard",
-      "searchable": 1,
-      "changeable": 0
-    },
-    {
-      "key": "Wexpsmp3",
-      "name": "🎤随身┃评书🎤",
-      "type": 3,
-      "api": "csp_Wexpsmp3Guard",
+      "api": "csp_WexLunhuiDJGuard",
       "searchable": 1,
       "changeable": 0
     },
@@ -1043,7 +1020,7 @@
     {
       "name": "范明明",
       "type": 0,
-      "url": "https://live.fanmingming.cn/tv/m3u/ipv6.m3u",
+      "url": "./lib/ipv6.m3u",
       "playerType": 1
     }
   ]

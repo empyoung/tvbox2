@@ -1,4 +1,4 @@
-https://gh-proxy.com/raw.githubusercontent.com/yoursmile66/TVBox/refs/heads/main/json/youtubecookie.json
+http://127.0.0.1:9978/file/TVBox/youtubecookie.json
 http://127.0.0.1:35457/tv.m3u
 http://127.0.0.1:35457/bililive.m3u
 http://127.0.0.1:35457/huyayqk.m3u
