@@ -1,1 +1,1 @@
-{ "urls": [{ "url": "https://git.mokoc.live/https://raw.githubusercontent.com/clover168/ysjk/refs/heads/main/pg/jsm.json", "name": "PG" }]}
+{ "urls": [{ "url": "https://ghproxy.gpnu.org/https://raw.githubusercontent.com/clover168/ysjk/refs/heads/main/pg/jsm.json", "name": "PG" }]}

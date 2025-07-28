@@ -1,1 +1,1 @@
-{ "urls": [{ "url": "https://git.mokoc.live/https://raw.githubusercontent.com/clover168/ysjk/refs/heads/main/摸鱼/moyu/moyu.json", "name": "摸鱼" }]}
+{ "urls": [{ "url": "https://ghproxy.gpnu.org/https://raw.githubusercontent.com/clover168/ysjk/refs/heads/main/摸鱼/moyu/moyu.json", "name": "摸鱼" }]}
