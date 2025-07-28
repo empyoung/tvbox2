@@ -14,7 +14,7 @@
 
 { "url": "https://gh.tryxd.cn/https://raw.githubusercontent.com/clover168/ysjk/refs/heads/main/多多/tvbox/OK/OK.json", "name": "OK" },
 
-{ "url": "https://gh.tryxd.cn/https://raw.githubusercontent.com/clover168/ysjk/refs/heads/main/多多/tvbox/pg/pg.json", "name": "pg" },
+{ "url": "https://gh.tryxd.cn/https://raw.githubusercontent.com/clover168/ysjk/refs/heads/main/多多/tvbox/pg/jsm.json", "name": "pg" },
 
 { "url": "https://gh.tryxd.cn/https://raw.githubusercontent.com/clover168/ysjk/refs/heads/main/多多/tvbox/wangerxiao/wangerxiao.json", "name": "王二小" },
 
