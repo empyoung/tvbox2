@@ -311,7 +311,92 @@
       "switchable": 0,
       "ext": {
         "count": 4,
-        "channelUsername": "tgsearchers2,xiangxiunb,leoziyuan,ResourceUniverse,BaiduCloudDisk,SharePanBaidu,bdwpzhpd,bdwpzhpd,alyp_TV,ucquark,wp123zy,oneonefivewpfx,tyypzhpd,cloudtianyi,yunpanchat,ydypzyfx,yunpan139,guaguale115,Mbox115,shares_115,zaihuayun,PanjClub,NewQuark,yunpanpan,kuakeyun,Quark_Movies,qixingzhenren,alyp_4K_Movies,alyp_TV,yunpanshare,shareAliyun,Lsp115,alyp_1",
+        "channelUsername": "tgsearchers2,leoziyuan,BaiduCloudDisk,yunpansall,SharePanBaidu,bdwpzhpd,alyp_TV,ucquark,wp123zy,oneonefivewpfx,tyypzhpd,cloudtianyi,ydypzyfx,yunpan139,Channel_Shares_115,zaihuayun,PanjClub,NewQuark,Quark_Movies,alyp_4K_Movies,alyp_TV,shareAliyun,Lsp115,alyp_1
+",
+        "commonConfig": "./json/peizhi.json"
+      }
+    },
+    {
+      "key": "TgYunPan|tgsou",
+      "name": "Tg搜",
+      "type": 3,
+      "api": "csp_TgYunPanLocal",
+      "searchable": 1,
+      "filterable": 0,
+      "switchable": 0,
+      "ext": {
+        "count": 4,
+        "channelUsername": "alyp_1,alyp_4K_Movies,alyp_Animation, alyp_JLP,alyp_TV,Aliyun_4K_Movies,bdwpzhpd,BaiduCloudDisk,Channel_Shares_115,cloud189_group,dianyingshare,hdhhd21,jdjdn1111,Lsp115,Maidanglaocom,NewAliPan,oneonefivewpfx,Oscar_4Kmovies,PanjClub,peccxin,peccxinpd,qixingzhenren,Quark_Movies,ResourceUniverse,shareAliyun,SharePanBaidu,taoxgzy,tgsearchers115,tgsearchers2,txtyzy,tyysypzypd,ucquark,vip115hot,wp123zy,XiangxiuNB,xiangxiunb,xunleiyunpan,yggpan,yp123pan,yunpan139,yunpan189,yunpanchat,yunpanqk,yunpanuc,yunpanxunlei,yunpansall,yydf_hzl,ysxb48,ysxb69,zaihuayun,xiangxiunb,leoziyuan,ResourceUniverse,BaiduCloudDisk,SharePanBaidu,bdwpzhpd,bdwpzhpd,alyp_TV,ucquark,wp123zy,oneonefivewpfx,tyypzhpd,cloudtianyi,yunpanchat,ydypzyfx,yunpan139,guaguale115,Mbox115,shares_115,zaihuayun,PanjClub,NewQuark,yunpanpan,kuakeyun,Quark_Movies,qixingzhenren,alyp_4K_Movies,alyp_TV,yunpanshare,shareAliyun,Lsp115,alyp_1",
+        "commonConfig": "./json/peizhi.json"
+      }
+    },
+    {
+      "key": "TgYunPan|kuake",
+      "name": "Tg|夸克",
+      "type": 3,
+      "api": "csp_TgYunPanLocal",
+      "searchable": 1,
+      "filterable": 0,
+      "switchable": 0,
+      "ext": {
+        "count": 4,
+        "channelUsername": "alyp_1,clouddriveresources,dianyingshare,hdhhd21,jdjdn1111,leoziyuan,NewQuark,PanjClub,Quark_Movies,xiangxiunb,yunpanchat,yunpanqk,XiangxiuNB,alyp_4K_Movies,alyp_Animation,alyp_TV,alyp_JLP",
+        "commonConfig": "./json/peizhi.json"
+      }
+    },
+    {
+      "key": "TgYunPan|tianyi",
+      "name": "Tg|天翼",
+      "type": 3,
+      "api": "csp_TgYunPanLocal",
+      "searchable": 1,
+      "filterable": 0,
+      "switchable": 0,
+      "ext": {
+        "count": 4,
+        "channelUsername": "cloud189_group,cloudtianyi,kuakeclound,tianyirigeng,txtyzy,tyypzhpd,tyysypzypd,yunpan189",
+        "commonConfig": "./json/peizhi.json"
+      }
+    },
+    {
+      "key": "TgYunPan|aliyun",
+      "name": "Tg|阿里",
+      "type": 3,
+      "api": "csp_TgYunPanLocal",
+      "searchable": 1,
+      "filterable": 0,
+      "switchable": 0,
+      "ext": {
+        "count": 4,
+        "channelUsername": "NewAliPan,qixingzhenren,shareAliyun,zaihuayun",
+        "commonConfig": "./json/peizhi.json"
+      }
+    },
+    {
+      "key": "TgYunPan|123",
+      "name": "Tg|123",
+      "type": 3,
+      "api": "csp_TgYunPanLocal",
+      "searchable": 1,
+      "filterable": 0,
+      "switchable": 0,
+      "ext": {
+        "count": 4,
+        "channelUsername": "wp123zy,xx123pan,yp123pan,zyfb123",
+        "commonConfig": "./json/peizhi.json"
+      }
+    },
+    {
+      "key": "TgYunPan|zonghe",
+      "name": "Tg|综合",
+      "type": 3,
+      "api": "csp_TgYunPanLocal",
+      "searchable": 1,
+      "filterable": 0,
+      "switchable": 0,
+      "ext": {
+        "count": 4,
+        "channelUsername": "Aliyun_4K_Movies,Maidanglaocom,Oscar_4Kmovies,peccxinpd,ResourceUniverse,SharePanBaidu,taoxgzy,tgsearchers2,ucquark,vip115hot,yggpan,yunpansall,yydf_hzl,peccxin,xunleiyunpan",
         "commonConfig": "./json/peizhi.json"
       }
     },
