@@ -189,7 +189,7 @@
 				"keywords":"名称,片名,推荐",
 				"tgsearch_url":"http://127.0.0.1:10199",
 				"tgsearch_media_url":"http://127.0.0.1:10199",
-				"channellist":"alyp_1,clouddriveresources,dianyingshare,hdhhd21,jdjdn1111,leoziyuan,NewQuark,PanjClub,Quark_Movies,xiangxiunb,yunpanchat,yunpanqk,XiangxiuNB,alyp_4K_Movies,alyp_Animation,alyp_TV,alyp_JLP",
+				"channellist":"NewQuark,PanjClub,Quark_Movies,XiangxiuNB,XiangxiuNBB,alyp_1,alyp_4K_Movies,alyp_Animation,alyp_JLP,alyp_TV,baicaoZY,clouddriveresources,dianyingshare,gotopan,hdhhd21,jdjdn1111,kkxlzy,leoziyuan,vip115hot,xiangxiunb,ypquark,yunpanchat,yunpanqk,yydf_hzl",
 				"proxy":"proxy",
 				"danmu":true
 			},
@@ -205,7 +205,7 @@
 				"keywords":"名称,片名,推荐",
 				"tgsearch_url":"http://127.0.0.1:10199",
 				"tgsearch_media_url":"http://127.0.0.1:10199",
-				"channellist":"Aliyun_4K_Movies,Maidanglaocom,Oscar_4Kmovies,peccxinpd,ResourceUniverse,SharePanBaidu,taoxgzy,tgsearchers2,ucquark,vip115hot,yggpan,yunpansall,yydf_hzl,peccxin,xunleiyunpan",
+				"channellist":"Aliyun_4K_Movies,Maidanglaocom,Oscar_4Kmovies,ResourceUniverse,SharePanBaidu,peccxin,peccxinpd,taoxgzy,tgsearchers2,ucquark,vip115hot,xingqiump4,xunleiyunpan,yggpan,yunpansall,yydf_hzl",
 				"proxy":"proxy",
 				"danmu":true
 			},
@@ -221,7 +221,7 @@
 				"keywords":"名称,片名,推荐",
 				"tgsearch_url":"http://127.0.0.1:10199",
 				"tgsearch_media_url":"http://127.0.0.1:10199",
-				"channellist":"cloud189_group,cloudtianyi,kuakeclound,tianyirigeng,txtyzy,tyypzhpd,tyysypzypd,yunpan189",
+				"channellist":"cloud189_group,cloudtianyi,kuakeclound,peccxinpd,tianyifc,tianyirigeng,txtyzy,tyypzhpd,tyysypzypd,yunpan189",
 				"proxy":"proxy",
 				"danmu":true
 			},
@@ -253,7 +253,7 @@
 				"keywords":"名称,片名,推荐",
 				"tgsearch_url":"http://127.0.0.1:10199",
 				"tgsearch_media_url":"http://127.0.0.1:10199",
-				"channellist":"wp123zy,xx123pan,yp123pan,zyfb123",
+				"channellist":"taoxgzy,wp123zy,xx123pan,yingshifenxiang123,yp123pan,zyfb123",
 				"proxy":"proxy",
 				"danmu":true
 			},

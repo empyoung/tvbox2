@@ -340,7 +340,7 @@
       "switchable": 0,
       "ext": {
         "count": 4,
-        "channelUsername": "alyp_1,clouddriveresources,dianyingshare,hdhhd21,jdjdn1111,leoziyuan,NewQuark,PanjClub,Quark_Movies,xiangxiunb,yunpanchat,yunpanqk,XiangxiuNB,alyp_4K_Movies,alyp_Animation,alyp_TV,alyp_JLP",
+        "channelUsername": "NewQuark,PanjClub,Quark_Movies,XiangxiuNB,XiangxiuNBB,alyp_1,alyp_4K_Movies,alyp_Animation,alyp_JLP,alyp_TV,baicaoZY,clouddriveresources,dianyingshare,gotopan,hdhhd21,jdjdn1111,kkxlzy,leoziyuan,vip115hot,xiangxiunb,ypquark,yunpanchat,yunpanqk,yydf_hzl",
         "commonConfig": "./json/peizhi.json"
       }
     },
@@ -354,7 +354,7 @@
       "switchable": 0,
       "ext": {
         "count": 4,
-        "channelUsername": "cloud189_group,cloudtianyi,kuakeclound,tianyirigeng,txtyzy,tyypzhpd,tyysypzypd,yunpan189",
+        "channelUsername": "cloud189_group,cloudtianyi,kuakeclound,peccxinpd,tianyifc,tianyirigeng,txtyzy,tyypzhpd,tyysypzypd,yunpan189",
         "commonConfig": "./json/peizhi.json"
       }
     },
@@ -382,7 +382,7 @@
       "switchable": 0,
       "ext": {
         "count": 4,
-        "channelUsername": "wp123zy,xx123pan,yp123pan,zyfb123",
+        "channelUsername": "taoxgzy,wp123zy,xx123pan,yingshifenxiang123,yp123pan,zyfb123",
         "commonConfig": "./json/peizhi.json"
       }
     },
@@ -396,7 +396,7 @@
       "switchable": 0,
       "ext": {
         "count": 4,
-        "channelUsername": "Aliyun_4K_Movies,Maidanglaocom,Oscar_4Kmovies,peccxinpd,ResourceUniverse,SharePanBaidu,taoxgzy,tgsearchers2,ucquark,vip115hot,yggpan,yunpansall,yydf_hzl,peccxin,xunleiyunpan",
+        "channelUsername": "Aliyun_4K_Movies,Maidanglaocom,Oscar_4Kmovies,ResourceUniverse,SharePanBaidu,peccxin,peccxinpd,taoxgzy,tgsearchers2,ucquark,vip115hot,xingqiump4,xunleiyunpan,yggpan,yunpansall,yydf_hzl",
         "commonConfig": "./json/peizhi.json"
       }
     },
