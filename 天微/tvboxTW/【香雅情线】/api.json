@@ -21,7 +21,8 @@
         }
     ],
     "sites": [
-      
+       
+        
          {
             "key": "drpy_js_豆瓣",
             "name": "🌷香雅情｜本地",
@@ -29,8 +30,7 @@
             "api": "./api/drpy2.min.js",
             "ext": "./js/drpy.js"
         },
-          
-              {
+           {
             "key": "csp_LocalFile",
             "name": "本机文件(接口完全免费)",
             "type": 3,
@@ -40,7 +40,7 @@
             "filterable": 1,
             "type_flag": 0
         },
-       
+        
         {
             "key": "drpy_js_奇珍异兽",
             "name": "奇珍异兽[js]",
@@ -850,7 +850,8 @@
                 "bfikuncdn"
             ],
             "regex": [
-                "#EXTINF.*?\\s+.*?XR8pDxQk.*?\\.ts"
+                "#EXTINF.*?\\s+.*?XR8pDxQk.*?\\.ts",
+                "#EXTINF.*?\\s+.*?p5XQill8.*?\\.ts"
             ]
         },
         {

@@ -18,7 +18,7 @@
 				"keywords":"名称,片名,推荐",
 				"tgsearch_url":"http://127.0.0.1:10199",
 				"tgsearch_media_url":"http://127.0.0.1:10199",
-				"channellist":"tgsearchers,leoziyuan,ucpanpan,pan123pan,zyfb123,zyzhpd123,xx123pan,tianyi_pd2,tianyirigeng,tyypzhpd,cloudtianyi,kuakeclound,ydypzyfx,clouddriveresources,NewQuark,New_Sharing,alypzyhzq|1000,Mbox115|1000,shares_115|1000,wanwansubchat|1000",
+				"channellist":"tgsearchers2,leoziyuan,zyzhpd123,xx123pan,tianyirigeng,tyypzhpd,cloudtianyi,kuakeclound,ydypzyfx,,NewQuark,New_Sharing,oneonefivewpfx,Channel_Shares_115,XiangxiuNBB,zaihuayun,Quark_Movies,vip115hot,shareAliyun,alyp_1,quanziyuanshe",
 				"proxy":"noproxy",
 				"douban":"./lib/douban.json",
 				"danmu":true
@@ -173,7 +173,87 @@
 				"keywords":"名称,片名,推荐",
 				"tgsearch_url":"http://127.0.0.1:10199",
 				"tgsearch_media_url":"http://127.0.0.1:10199",
-				"channellist":"tgsearchers,leoziyuan,ucpanpan,pan123pan,zyfb123,zyzhpd123,xx123pan,tianyi_pd2,tianyirigeng,tyypzhpd,cloudtianyi,kuakeclound,ydypzyfx,clouddriveresources,NewQuark,New_Sharing,oneonefivewpfx,hao115,guaguale115,Channel_Shares_115,dianyingshare,XiangxiuNB,yunpanpan,kuakeyun,zaihuayun,Quark_Movies,vip115hot,yunpanshare,shareAliyun,ikiviyyp,alyp_1,quanziyuanshe",
+				"channellist":"tgsearchers2,leoziyuan,zyzhpd123,xx123pan,tianyirigeng,tyypzhpd,cloudtianyi,kuakeclound,ydypzyfx,,NewQuark,New_Sharing,oneonefivewpfx,Channel_Shares_115,XiangxiuNBB,zaihuayun,Quark_Movies,vip115hot,shareAliyun,alyp_1,quanziyuanshe",
+				"proxy":"proxy",
+				"danmu":true
+			},
+			"style": {
+				"type": "rect",
+				"ratio": 1.77
+			}
+		},
+		{"key":"TGYunPankuake","name":"TG|夸克","type":3,"api":"csp_TGYunPanLocal","timeout":120, 
+			"ext":{
+				"token":"./lib/tokenm.json",
+				"json":"./lib/tgsearch.json",
+				"keywords":"名称,片名,推荐",
+				"tgsearch_url":"http://127.0.0.1:10199",
+				"tgsearch_media_url":"http://127.0.0.1:10199",
+				"channellist":"NewQuark,PanjClub,Quark_Movies,XiangxiuNB,XiangxiuNBB,alyp_1,alyp_4K_Movies,alyp_Animation,alyp_JLP,alyp_TV,baicaoZY,clouddriveresources,dianyingshare,gotopan,hdhhd21,jdjdn1111,kkxlzy,leoziyuan,vip115hot,xiangxiunb,ypquark,yunpanchat,yunpanqk,yydf_hzl",
+				"proxy":"proxy",
+				"danmu":true
+			},
+			"style": {
+				"type": "rect",
+				"ratio": 1.77
+			}
+		},
+		{"key":"TGYunPanzonghe","name":"TG|综合","type":3,"api":"csp_TGYunPanLocal","timeout":120, 
+			"ext":{
+				"token":"./lib/tokenm.json",
+				"json":"./lib/tgsearch.json",
+				"keywords":"名称,片名,推荐",
+				"tgsearch_url":"http://127.0.0.1:10199",
+				"tgsearch_media_url":"http://127.0.0.1:10199",
+				"channellist":"Aliyun_4K_Movies,Maidanglaocom,Oscar_4Kmovies,ResourceUniverse,SharePanBaidu,peccxin,peccxinpd,taoxgzy,tgsearchers2,ucquark,vip115hot,xingqiump4,xunleiyunpan,yggpan,yunpansall,yydf_hzl",
+				"proxy":"proxy",
+				"danmu":true
+			},
+			"style": {
+				"type": "rect",
+				"ratio": 1.77
+			}
+		},
+		{"key":"TGYunPantianyi","name":"TG|天翼","type":3,"api":"csp_TGYunPanLocal","timeout":120, 
+			"ext":{
+				"token":"./lib/tokenm.json",
+				"json":"./lib/tgsearch.json",
+				"keywords":"名称,片名,推荐",
+				"tgsearch_url":"http://127.0.0.1:10199",
+				"tgsearch_media_url":"http://127.0.0.1:10199",
+				"channellist":"cloud189_group,cloudtianyi,kuakeclound,peccxinpd,tianyifc,tianyirigeng,txtyzy,tyypzhpd,tyysypzypd,yunpan189",
+				"proxy":"proxy",
+				"danmu":true
+			},
+			"style": {
+				"type": "rect",
+				"ratio": 1.77
+			}
+		},
+		{"key":"TGYunPanaliyun","name":"TG|阿里","type":3,"api":"csp_TGYunPanLocal","timeout":120, 
+			"ext":{
+				"token":"./lib/tokenm.json",
+				"json":"./lib/tgsearch.json",
+				"keywords":"名称,片名,推荐",
+				"tgsearch_url":"http://127.0.0.1:10199",
+				"tgsearch_media_url":"http://127.0.0.1:10199",
+				"channellist":"NewAliPan,qixingzhenren,shareAliyun,zaihuayun",
+				"proxy":"proxy",
+				"danmu":true
+			},
+			"style": {
+				"type": "rect",
+				"ratio": 1.77
+			}
+		},
+		{"key":"TGYunPan123","name":"TG|123","type":3,"api":"csp_TGYunPanLocal","timeout":120, 
+			"ext":{
+				"token":"./lib/tokenm.json",
+				"json":"./lib/tgsearch.json",
+				"keywords":"名称,片名,推荐",
+				"tgsearch_url":"http://127.0.0.1:10199",
+				"tgsearch_media_url":"http://127.0.0.1:10199",
+				"channellist":"taoxgzy,wp123zy,xx123pan,yingshifenxiang123,yp123pan,zyfb123",
 				"proxy":"proxy",
 				"danmu":true
 			},
@@ -189,7 +269,7 @@
 				"keywords":"名称,片名,推荐",
 				"tgsearch_url":"http://127.0.0.1:10199",
 				"tgsearch_media_url":"http://127.0.0.1:10199",
-				"channellist":"alypzyhzq|1000,Mbox115|1000,shares_115|1000,NewQuark|1000,New_Sharing|1000,wanwansubchat|1000",
+				"channellist":"shares_115|1000,NewQuark|1000,New_Sharing|1000,Channel_Shares_115|1000,tgsearchers2,leoziyuan,zyzhpd123,xx123pan,tianyirigeng,tyypzhpd,cloudtianyi,kuakeclound,ydypzyfx,,NewQuark,New_Sharing,oneonefivewpfx,Channel_Shares_115,XiangxiuNBB,zaihuayun,Quark_Movies,vip115hot,shareAliyun,alyp_1,quanziyuanshe",
 				"proxy":"noproxy",
 				"danmu":true
 			},
@@ -200,6 +280,7 @@
 		},
 		{"key":"Guanying","name":"观影|网盘|磁力","type":3,"api":"csp_Guanying","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"./lib/tokenm.json$$$https://www.gying.net$$$noproxy$$$1$$$./lib/guanying.txt$$$GUANYING"},
 		{"key":"FourKZN","name":"4K指南|网盘|磁力","type":3,"api":"csp_FourKZN","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"./lib/tokenm.json$$$http://xuexizhinan.com/$$$noproxy$$$1$$$./lib/4kzn.txt$$$4KZN"},
+		{"key":"FourKFox","name":"4KFox|网盘|磁力","type":3,"api":"csp_FourKFox","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"./lib/tokenm.json$$$http://4kfox.com/$$$noproxy$$$1$$$./lib/4kfox.txt$$$4KFOX"},
 		{"key":"FourKFM","name":"4K影库|网盘|磁力","type":3,"api":"csp_FourKFM","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"./lib/tokenm.json$$$http://4kfm.com/$$$noproxy$$$1$$$./lib/4kfm.txt$$$4KFM"},
 		{"key":"校长影视","name":"校长影视|网盘","type":3,"api":"csp_XiaoZhang", "quickSearch":1, "changeable":1, "filterable":1, "timeout":60,"ext":"./lib/tokenm.json$$$https://xzyshd.com$$$proxy$$$1"},
 		{"key":"Wogg","name":"玩偶哥哥|网盘","type":3,"api":"csp_Wogg","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"./lib/tokenm.json$$$http://wogg.888484.xyz/$$$noproxy$$$1$$$./lib/wogg.json$$$WOGG"},
