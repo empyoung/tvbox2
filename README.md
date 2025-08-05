@@ -33,6 +33,8 @@ https://ghproxy.gpnu.org/https://raw.githubusercontent.com/clover168/ysjk/refs/h
 
 OK单仓：
 https://ghproxy.gpnu.org/https://raw.githubusercontent.com/clover168/ysjk/refs/heads/main/OK单仓.txt
+奇迹云单仓：
+https://ghproxy.gpnu.org/https://raw.githubusercontent.com/clover168/ysjk/refs/heads/main/奇迹云单仓.txt
 
 
 

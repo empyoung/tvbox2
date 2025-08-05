@@ -10,4 +10,6 @@
 
 { "url": "https://ghproxy.gpnu.org/https://raw.githubusercontent.com/clover168/ysjk/refs/heads/main/OK/OK.json", "name": "聚合-OK" },
 
+{ "url": "https://ghproxy.gpnu.org/https://raw.githubusercontent.com/clover168/ysjk/refs/heads/main/奇迹云/奇迹云.json", "name": "聚合-奇迹云" },
+
 { "url": "https://ghproxy.gpnu.org/https://raw.githubusercontent.com/clover168/ysjk/refs/heads/main/真心/FongMi.json", "name": "聚合-真心" }]}
