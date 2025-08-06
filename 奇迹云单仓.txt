@@ -1,0 +1,1 @@
+{ "urls": [{ "url": "https://ghproxy.gpnu.org/https://raw.githubusercontent.com/clover168/ysjk/refs/heads/main/奇迹云/奇迹云.json", "name": "奇迹云" }]}
